@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/msmohamed-al-falahy/msmohamed-al-falahy/_apis/build/status/mamdinho.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/msmohamed-al-falahy/msmohamed-al-falahy/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
